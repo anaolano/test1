@@ -21,6 +21,6 @@ int main(void)
       return 1;
     }
   }
-
+//LIL JON HACKED US OH NO D:
   printf("Hello whata do shawty named:, %s\n", name);
 }
