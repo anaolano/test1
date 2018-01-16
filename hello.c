@@ -25,4 +25,5 @@ int main(void)
   }
 
   printf("Hello whata do shawty named:, %s\n", name);
+  printf("Your lucky number is %d\n", rand());
 }
