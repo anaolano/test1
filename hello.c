@@ -2,6 +2,8 @@
 #include <string.h>
 #include <ctype.h>
 
+// Yo yo yo
+
 int main(void)
 {
   char name[15];
