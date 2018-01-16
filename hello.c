@@ -24,5 +24,5 @@ int main(void)
     }
   }
 
-  printf("Hello, %s\n", name);
+  printf("Hello whata do shawty named:, %s\n", name);
 }
