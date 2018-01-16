@@ -23,6 +23,6 @@ int main(void)
       return 1;
     }
   }
-//LIL JON HACKED US OH NO D:
+//LIL JON HACKED US OH NO D asdfghjkl
   printf("Hello whata do shawty named:, %s\n", name);
 }
